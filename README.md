@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sofia</h1>
 <h3 align="center">A strategic Front-end Engineer from Peru</h3>
 
-- 🔭 I’m currently working on [my portfolio web](https://sofia-portfolio-nine.vercel.app/)
+- 🔭 I’m currently working on [my portfolio web](https://sofiachuquin.com/)
 
 - 🌱 I’m currently learning **Next.js with Tailwind CSS**
 
-- 👩🏻‍💻 All of my projects are available at [https://sofia-portfolio-nine.vercel.app/](https://sofia-portfolio-nine.vercel.app/)
+- 👩🏻‍💻 All of my projects are available at [https://sofiachuquin.com/](https://sofiachuquin.com/)
 
 - 💬 Ask me about **reactJS and react native**
 
