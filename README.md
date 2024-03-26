@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sofia</h1>
-<h3 align="center">A passionate Front-end Engineer from Peru</h3>
+<h3 align="center">A strategic Front-end Engineer from Peru</h3>
 
 - 🔭 I’m currently working on [my portfolio web](https://sofia-portfolio-nine.vercel.app/)
 
