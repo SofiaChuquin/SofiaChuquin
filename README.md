@@ -21,6 +21,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img alt="ReactJS" src="https://img.shields.io/badge/REACTJS-252525?style=for-the-badge&logo=react&labelColor=252525"> </a> 
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img alt="React Native" src="https://img.shields.io/badge/REACT_NATIVE-61DBFB?style=for-the-badge&logo=react&labelColor=61DBFB&logoColor=252525"> </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img alt="NEXT JS" src="https://img.shields.io/badge/NEXTJS-252525?style=for-the-badge&logo=next.js&labelColor=252525"> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img alt="Flutter" src="https://img.shields.io/badge/FLUTTER-1fbcfd?style=for-the-badge&logo=flutter&labelColor=1fbcfd"> </a> 
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img alt="REDUX" src="https://img.shields.io/badge/REDUX-744abc?style=for-the-badge&logo=redux&labelColor=744abc"> </a>
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img alt="Electron" src="https://img.shields.io/badge/ELECTRON-028399?style=for-the-badge&logo=electron&logoColor=white&labelColor=028399"> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img alt="NODE JS" src="https://img.shields.io/badge/NODEJS-44883e?style=for-the-badge&logo=node.js&logoColor=white&labelColor=44883e"> </a>
@@ -28,8 +29,9 @@
 <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img alt="Ruby on Rails" src="https://img.shields.io/badge/RUBY_ON_RAILS-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white&labelColor=CC0000"> </a>
      
 <h4>Languages</h4>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&labelColor=171717"> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img alt="Typescript" src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&labelColor=007ACC&logoColor=white"> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&labelColor=171717"> </a> 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img alt="Dart" src="https://img.shields.io/badge/DART-01579b?style=for-the-badge&logo=dart&labelColor=01579b"> </a> 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img alt="Ruby" src="https://img.shields.io/badge/Ruby-9b111e?style=for-the-badge&logo=ruby&labelColor=9b111e"> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img alt="HTML" src="https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&labelColor=FF5733&logoColor=white">
  </a>
