@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sofia</h1>
-<h3 align="center">A strategic Front-end Engineer from Peru</h3>
+<h3 align="center">A passionate Mobile Engineer from Peru</h3>
 
 - 🔭 I’m currently working on Finances app
 
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **reactJS and react native**
 
-- 📫 How to reach me **sofiachuquin@gmail.com**
+- 📩 How to reach me **sofiachuquin@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/sofiachuquin](https://linkedin.com/in/sofiachuquin)
+- 📱 Know about my experiences [https://linkedin.com/in/sofiachuquin](https://linkedin.com/in/sofiachuquin)
 
 - ⚡ Fun fact **I learn to read at 4 years old**
 
