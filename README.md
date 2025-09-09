@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sofia</h1>
-<h3 align="center">A passionate Mobile Engineer from Peru</h3>
+<h1 align="center">Hi 👋, I'm Sofi</h1>
+<h3 align="center">Mobile Engineer | Digital Creator | Empowering Women in Tech</h3>
 
-- 🔭 I’m currently working on Finances app
+- 👩🏻‍💻 Currently building a cross-platform **Baseball Insights App** with Flutter
 
-- 🌱 I’m currently learning **Flutter**
+- 🎤 Speaker: I give talks twice a year about growth & women in Tech
+  
+- 🌱 Always learning & sharing my journey in tech & life
+    
+- 📩 Reach me at **sofiachuquin@gmail.com**
+  
+- 🌐 More about me: [https://linkedin.com/in/sofichuquin](https://linkedin.com/in/sofichuquin)
 
-- 👩🏻‍💻 All of my projects are available at [https://sofiachuquin.com/](https://sofiachuquin.com/)
-
-- 💬 Ask me about **reactJS and react native**
-
-- 📩 How to reach me **sofiachuquin@gmail.com**
-
-- 📱 Know about my experiences [https://linkedin.com/in/sofiachuquin](https://linkedin.com/in/sofiachuquin)
-
-- ⚡ Fun fact **I learn to read at 4 years old**
+- ✨ Fun fact: I believe tech & personal growth can glow up together
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -67,6 +65,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sofiachuquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofiachuquin" height="30" width="40" /></a>
-<a href="https://instagram.com/sofiachuquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofiachuquin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sofichuquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofichuquin" height="30" width="40" /></a>
+<a href="https://instagram.com/sofichuquin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofichuquin" height="30" width="40" /></a>
 </p>
